@@ -3,3 +3,5 @@
 *.pdf
 *.ods
 *.tar*
+env/
+rnd/

@@ -1,2 +1,2 @@
-# ![adX logo](.i/adx.png)
+![adX logo](.i/adx.png)
 # adX
